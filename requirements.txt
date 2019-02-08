@@ -1,4 +1,1 @@
-pylibmc==1.5.1
 superset==0.29.0rc7
-psycopg2==2.7.3
-MySQL-python==1.2.5
